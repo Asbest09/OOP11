@@ -1,0 +1,7 @@
+C:\Users\Sonic\source\repos\OOP11\OOP11\bin\Debug\OOP11.exe.config
+C:\Users\Sonic\source\repos\OOP11\OOP11\bin\Debug\OOP11.exe
+C:\Users\Sonic\source\repos\OOP11\OOP11\bin\Debug\OOP11.pdb
+C:\Users\Sonic\source\repos\OOP11\OOP11\obj\Debug\OOP11.csproj.AssemblyReference.cache
+C:\Users\Sonic\source\repos\OOP11\OOP11\obj\Debug\OOP11.csproj.CoreCompileInputs.cache
+C:\Users\Sonic\source\repos\OOP11\OOP11\obj\Debug\OOP11.exe
+C:\Users\Sonic\source\repos\OOP11\OOP11\obj\Debug\OOP11.pdb
